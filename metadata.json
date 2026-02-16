@@ -1,0 +1,8 @@
+{
+  "name": "Copy of RentFlow Dashboard",
+  "description": "A sophisticated rent management SaaS dashboard for Indian property owners to automate collections, track payments, and manage tenants efficiently.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
